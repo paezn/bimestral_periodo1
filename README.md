@@ -1,4 +1,4 @@
-# Evaluación bimestral periodo 1 (parte 2/2)
+# Evaluación bimestral periodo 1
 
 Luego de clonar este repositorio en su equipo local, desarrolle en él lo siguiente, haciendo los add, commits y push necesarios:
 
